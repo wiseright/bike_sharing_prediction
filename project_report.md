@@ -71,6 +71,15 @@ TODO: Replace the image below with your own.
 
 ![model_test_score.png](img/model_test_score.png)
 
+### Create a heatmap to show the correlation of initial train dataset:
+![train_corr.png](img/train_corr.png)
+
+### Create a heatmap to show the correlation of train dataset with features:
+![train_features_corr.png](img/train_features_corr.png)
+
+### Create a heatmap to show the correlation of train dataset also with feature of rush hour:
+![train_features_more_corr.png](img/train_features_more_corr.png)
+
 ## Summary
 TODO: Add your explanation
 It seems that I get the best result after add new features. Hyperparameters tuning seems didn't get any better results
